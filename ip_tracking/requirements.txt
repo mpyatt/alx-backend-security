@@ -1,0 +1,7 @@
+Django>=5.0,<6.0
+celery>=5.3
+redis>=5.0
+django-ratelimit>=4.1
+python-dotenv>=1.0
+django-ipware>=6.0
+django-ip-geolocation>=1.6
